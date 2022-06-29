@@ -3,4 +3,4 @@ is a consensus-based, gamified technique for estimating, mostly used to estimate
 
 Technologies have been used such as React, Redux, Websocket, Express.
 ### link repository server: https://github.com/Uladzimir86/pointing-poker-server
-### deploy front : sleepy-wing-429162.netlify.app/
+### deploy front : https://sleepy-wing-429162.netlify.app/
